@@ -10,7 +10,6 @@ A full-stack database project built to store, analyze, and manage laptop specifi
 - **/data** – Cleaned datasets used in the project
 - **/analysis** – Jupyter notebook for data exploration and insights
 - **/docs** – Milestone reports for documentation and project progress
-- **README.txt** – Instructions to run the web interface (FastAPI + React)
 
 ---
 
